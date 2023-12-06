@@ -52,7 +52,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     }
 }
 ```
-
+<br> <br>
 ## WebFlux Security
 ```
 @EnableWebFluxSecurity
